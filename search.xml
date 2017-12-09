@@ -314,7 +314,7 @@ x &amp;= a +b+c+d\\
 <p><span class="math display">\[\begin{equation} \theta_j := \theta_j +
 \alpha\sum\limits_{i=1}^n(y^{(i)}-h_{\theta}(x^{(i)}))x_j^{(i)}
 \label{mini-BGD} \end{equation}\]</span></p>
-<p>公式<span class="math inline">\((\ref{mini-BGD})\)</span></p>
+<p>Equation<span class="math inline">\((\ref{mini-BGD})\)</span></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">在_后加&#123;&#125;无法正常显示公式</span><br><span class="line">_用\_转义即可</span><br></pre></td></tr></table></figure>
 <h2 id="code-blocks">Code Blocks</h2>
 <p>支持四十一种编程语言的语法高亮的显示，行号显示。</p>
