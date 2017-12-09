@@ -280,6 +280,8 @@
 <p>使用 <code>代码</code> 表示行内代码块。</p>
 <p>示例：</p>
 <p>让我们聊聊 <code>html</code>。</p>
+<p><span id="inline-red">red（#FF0000</span> <span id="inline-yellow">yellow（#FFFF00</span> <span id="inline-blue">蓝色</span> <span id="inline-green">绿色</span> <span id="inline-cyan">青色</span> <span id="inline-orange">橙色</span> <span id="inline-purple">紫色</span> <span id="inline-gray">灰色</span> <span id="inline-white">白色</span> <span id="inline-brown">棕色</span> <span id="inline-pink">粉红色</span></p>
+<p><a href="http://yangbingdong.com/2017/build-blog-hexo-advanced/#好玩的样式" target="_blank" rel="noopener">More custom style info</a></p>
 <h2 id="代码块">代码块</h2>
 <p>使用 四个缩进空格 表示代码块。</p>
 <p>示例：</p>
@@ -386,7 +388,7 @@ x &amp;= a +b+c+d\\
 <p><code>&lt;i class=&quot;fa fa-fw fa-renren icon-2x&quot;&gt;&lt;/i&gt;</code></p>
 <p>即显示人人的图标： <i class="fa fa-fw fa-renren icon-2x"></i></p>
 <p><i class="fa fa-fw fa-flag"></i></p>
-<p>更多的图标和玩法可以参看 <a href="http://fortawesome.github.io/Font-Awesome/3.2.1/icons/" target="_blank" rel="noopener">font-awesome</a> 官方网站。</p>
+<p>更多的图标和玩法可以参看 <a href="http://fontawesome.io/icons/" target="_blank" rel="noopener">font-awesome</a> 官方网站。</p>
 <h2 id="flowchart">Flowchart</h2>
 <p>The flowchart below use <code>hexo-filter-flowchart</code>.</p>
 <div id="flowchart-0" class="flow-chart">
@@ -421,6 +423,29 @@ x &amp;= a +b+c+d\\
 <div class="note info">Content (md info supported)</div>
 <div class="note warning">Content (md warning supported)</div>
 <div class="note danger">Content (md danger supported)</div>
+<h2 id="tab-tag">Tab tag</h2>
+<div class="tabs" id="选项卡"><ul class="nav-tabs"><li class="tab"><a href="#选项卡-1">选项卡 1</a></li><li class="tab active"><a href="#选项卡-2">选项卡 2</a></li><li class="tab"><a href="#选项卡-3">选项卡 3</a></li></ul><div class="tab-content"><div class="tab-pane" id="选项卡-1">**Tab tag 1** blablabla
+</div><div class="tab-pane active" id="选项卡-2">**Tab tag 2**
+</div><div class="tab-pane" id="选项卡-3">**Tab tag 3** φ(≧ω≦*)♪～
+</div></div></div>
+<div class="tabs" id="sixth-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#sixth-unique-name-1"><i class="fa fa-text-width" "=""></i>Solution 1</a></li><li class="tab"><a href="#sixth-unique-name-2"><i class="fa fa-amazon" "=""></i>Solution 2</a></li><li class="tab"><a href="#sixth-unique-name-3"><i class="fa fa-bold" "=""></i>Solution 3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="sixth-unique-name-1">**This is Tab 1.**
+</div><div class="tab-pane" id="sixth-unique-name-2">**This is Tab 2.**
+</div><div class="tab-pane" id="sixth-unique-name-3">**This is Tab 3.**
+</div></div></div>
+<p><a href="https://almostover.ru/2016-01/hexo-theme-next-test/#Label-tag-test" target="_blank" rel="noopener">More info</a></p>
+<h2 id="button-with-icon">Button with icon</h2>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Usage: &#123;% button /path/to/url/, text, icon [class], title %&#125;</span><br><span class="line">Alias: &#123;% btn /path/to/url/, text, icon [class], title %&#125;</span><br></pre></td></tr></table></figure>
+<p><a class="btn" href="#"><i class="fa fa-home fa-3x"></i></a>
+</p>
+<p><a class="btn" href="#"><i class="fa fa-home fa-fw fa-lg"></i>Text & Large Icon</a>
+</p>
+<div class="text-center">
+<a class="btn" href="#"><i class="fa fa-terminal fa-fw fa-lg"></i>Over</a>
+</div>
+<div class="text-center">
+<p><span><a class="btn" href="#"><i class="fa fa-edge"></i></a><a class="btn" href="#"><i class="fa fa-times"></i></a><a class="btn" href="#"><i class="fa fa-circle-o"></i></a></span> <span><a class="btn" href="#"><i class="fa fa-scribd"></i></a></span> <span><a class="btn" href="#"><i class="fa fa-chrome"></i></a><a class="btn" href="#"><i class="fa fa-opera"></i></a><a class="btn" href="#"><i class="fa fa-diamond fa-rotate-270"></i></a></span></p>
+</div>
+<p><a href="https://almostover.ru/2016-01/hexo-theme-next-test/#Label-tag-test" target="_blank" rel="noopener">More info</a></p>
 <section class="footnotes">
 <hr>
 <ol>
