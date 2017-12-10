@@ -3,6 +3,97 @@
   
     
     <entry>
+      <title><![CDATA[Chinese service trade network structure]]></title>
+      <url>/2017/12/10/Network/</url>
+      <content type="html"><![CDATA[<p>“<em>Chinese service trade network structure and dynamic evolution of its industrial position</em>”, <strong>China Network for Social Network Analysis (CNSNS) Conference</strong></p>
+<p><strong>Abstract</strong>: This paper applies the world input-output table of Eora 26 database to building the integrated and ego network both of the world and China, and decomposes the basic characteristics of the network’s structure, especially observing the dynamic effects of the crisis on development of China’s service trade sectors. <a id="more"></a> This paper also takes the perspect of network of global industrial support, simultaneously analyzing the evolution of key industries in China’s service trade with domestic ratio of value-added during the year 2004~2013 and then locates the direction for position development of heterogeneous sectors. The results show that the development of China’s service trade falls into the “Low Ratio of Value-Added Trap”, and the structure of our service trade is not strong enough to defend the crisis. However, the development of our service trade still displays the extensive form, and tends to develop trade relationship with the emerging markets at this stage. During the period of 13th Five-Year, how to materialize the adjustment of the structure to prompt the quality of service trade and improve the crisis-defending competence becomes an imperative task ahead.</p>
+<p><strong>Keywords</strong>: Financial Crisis; Trade in Service Network; “Low Ratio of Value-Added Trap”；Strutual Adjustment</p>
+<blockquote class="blockquote-center">
+————The End. Thanks for reading————
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> Research &amp; Projects </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Network </tag>
+            
+            <tag> Internatioanl Trade </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[The Mining and Analysis of Web Recruitment Information]]></title>
+      <url>/2017/12/10/Data/</url>
+      <content type="html"><![CDATA[<p>“<em>The Mining and Analysis of Web Recruitment Information Based on Document mining, Occupation Network and Time Series Model</em>”, <strong>4th TipDM Cup National Data Mining Race Project</strong></p>
+<p><strong>Abstract</strong>: With the development of network applications, more and more recruitments information is listed on the webs, and these information reflects the certain assignments of the firms on their future crews, these properties including the occupation need, competences and skills. Meanwhile, these information also provides universities and colleges for knowing the update demand of the talents from the society in time, and then arraneging the majors and courses, which also promotes the academic performance of students.</p>
+<a id="more"></a>
+<p>However, is there any relationship among occupations and degrees and working experiences? Which property is helpful for applicants to be assigned? To answer these questions, the anaylsis for web recruitment information bears huge practical value, and according to the specific property of these information, the application of data mining techniques to explore being the fundamental method. This paper researches the correlations among the recruitments information basing on the techniques of text mining, and analyses the internal correlations behind information in the way of descriptive analysis and modelings, which can really serve to provide useful information and suggestions for education development of universities and colleges.</p>
+<p>In data mining process, we first use R toprocess unstructured data, segment Chinese words and filter disable word with package <code>tm</code>, meanwhile constructing Volatile Corpus with <code>Rwordseg</code>, which realizes clearing up unstructured data in recruitment information. Secondly, we construct a complex network model transform from TF-IDF term matrix to find the correlation between the talent recruitment information, which is the basis for the subsequent hierarchical description. As a result, we extract the structured data in the work experience, education level, salary level, geographical distribution and release time to give a multi-dimension description for talent demand. Moreover, time series model predicts jobs quantity showing the urge demand in data mining industry. Finally, based on CIER, we deeply analyse supply and demand of IT industry and its trend in future development by the methods combined statistics and economics.</p>
+<strong>Key words</strong>: Data Preprocess; Text Mining Complex; Time-Series Modeling
+<blockquote class="blockquote-center">
+————The End. Thanks for reading————
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> Research &amp; Projects </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Data Mining </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Quantitative Method and Statistical Arbitrage in Chinese Options Market]]></title>
+      <url>/2017/12/10/Dissertation/</url>
+      <content type="html"><![CDATA[<p>“<em>Quantitative Method and Statistical Arbitrage in Chinese Options Market aiming at 510050.SS ETF options</em>”, <strong>Honors Thesis in International Business</strong></p>
+<p><strong>Purpose</strong> – Using quantitative method to analyze options series underlying at 510050.SS ETF, deploying two hedging strategy belongs to statistical arbitrage to test its profitability on certain financial instruments, and further investigating volatility patterns.</p>
+<a id="more"></a>
+<p><strong>Design/methodology/approach</strong> – Analyzing the specific risk and P&amp;L indicator of the options, and conducting a simulation of Greeks neutral hedging strategy then indicating the importance of volatility in arbitrage. Options market data set are used to constructing the volatility surface with local and stochastic volatility, which gives us an overlook to the option market implied volatility along with the analysis of the different surface structures.</p>
+<p><strong>Research limitations</strong> – The daily data we examined are in low frequency which might be unable to keep pace with options trading mechanism. Also, the term structure of volatility surface may overfitted with limited market products available. Further, only two common hedging strategy with Greeks are handled in this paper, which needs further research on Vega featuring stochastic volatility model and the volatility behavior in market practice.</p>
+<p><strong>Originality/value</strong> –The theoretical framework shows a feasible way to identify the profitability of Greeks neutral strategies and the specific lime light on which should be laid among aspects of option traders. Two classical volatility surfaces well supports observation market implied volatility, filling the gap lacking available market instruments. And this structure of idea can also be widely-used in the related problems of certain exotics pricing and statistical trading.</p>
+<p><strong>Keywords</strong>: delta-gamma hedging; Heston model; local volatility surface; Chinese options market</p>
+<p><strong>Paper Outline</strong></p>
+<p><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/dissertation/dissertation_outline.bmp"></p>
+<blockquote class="blockquote-center">
+————The End. Thanks for reading————
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> Research &amp; Projects </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Volatility </tag>
+            
+            <tag> Hedging </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Notes for CQF Problem Session - Part IV]]></title>
       <url>/2017/12/06/CQFsp4/</url>
       <content type="html"><![CDATA[<h1 id="notes-for-cqf-problem-session---part-iv">Notes for CQF Problem Session - Part IV</h1>
@@ -37,7 +128,6 @@
 
 
 
-<hr>
 <blockquote class="blockquote-center">
 ————The End. Thanks for reading————
 </blockquote>
@@ -95,7 +185,6 @@
 
 
 
-<hr>
 <blockquote class="blockquote-center">
 ————The End. Thanks for reading————
 </blockquote>
@@ -153,7 +242,6 @@
 
 
 
-<hr>
 <blockquote class="blockquote-center">
 ————The End. Thanks for reading————
 </blockquote>
@@ -211,7 +299,6 @@
 
 
 
-<hr>
 <blockquote class="blockquote-center">
 ————The End. Thanks for reading————
 </blockquote>
@@ -469,7 +556,6 @@ cond(yes, right)->c2
 cond(no)->sub1(left)->op1
 c2(yes)->io->e
 c2(no)->op2->e</textarea><textarea id="flowchart-0-options" style="display: none">{"scale":1,"line-width":2,"line-length":50,"text-margin":10,"font-size":12}</textarea><script>  var code = document.getElementById("flowchart-0-code").value;  var options = JSON.parse(decodeURIComponent(document.getElementById("flowchart-0-options").value));  var diagram = flowchart.parse(code);  diagram.drawSVG("flowchart-0", options);</script>
-<hr>
 <blockquote class="blockquote-center">
 ————The End. Thanks for reading————
 </blockquote>
