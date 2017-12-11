@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wenchao4quant.cn/2017/12/10/Data/</loc>
+    
+    <lastmod>2017-12-11T04:05:51.487Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wenchao4quant.cn/2017/12/10/Network/</loc>
     
-    <lastmod>2017-12-10T12:23:25.281Z</lastmod>
+    <lastmod>2017-12-11T04:00:45.342Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>http://wenchao4quant.cn/about/index.html</loc>
     
     <lastmod>2017-12-10T12:06:05.681Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wenchao4quant.cn/2017/12/10/Data/</loc>
-    
-    <lastmod>2017-12-10T11:11:04.011Z</lastmod>
     
   </url>
   
