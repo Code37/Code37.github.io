@@ -5,6 +5,7 @@ tags:
  - Markdown
  - Hexo
 categories: Websites
+mathjax: true
 ---
 
 # Markdown Usage Memo
