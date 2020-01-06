@@ -1,9 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Dueling Double Deep Q learning in intraday trading</title>
+    <url>/2020/01/04/MFEssay/</url>
+    <content><![CDATA[<p><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/MFEassy/action.png" /></p>
+<p>&quot;<em>Dueling Double Deep Q learning in intraday trading</em>&quot;, <strong>Math 625 Portfolio Theory and Application Final Project</strong></p>
+<p><strong>Keywords</strong>: Reinforcement Learning; Intraday trading; US stocks</p>
+<a id="more"></a>
+<h1 id="purpose"><strong>Purpose</strong></h1>
+<p>Training an agent use the DQN Dueling network and double Q value function in the custom environment ‘intraday’. The trained agent will use its ‘skill’ to submit trade action at every 390 steps in a day. Its performance is measured by ‘intraday’ environment and returned next step to the agent.</p>
+<h1 id="approach"><strong>Approach</strong></h1>
+<ul>
+<li>Dueling and double DQN model
+<ul>
+<li>Double Q value function is to remove the overestimate bias. The redefined loss functions: <span class="math display">\[ L_i(\theta_i) = \mathbb{E}_{s_{t},a_{t},r,s_{t+1} \sim D_i} [ (\mathbb{E}_{s_{t+1} \sim \mathcal{E}} [r_t + \gamma Q(\phi_{t+1}, \underset{\a &#39;}{\operatorname{arg max}}{Q}(\phi_{t+1}, \a &#39;|\theta_i)|\theta^{-})] - \gamma Q(\phi_t,a_t | \theta_i))^2 ]  \]</span></li>
+<li>Dueling network separates Q network to two control layers: action dependent advantage function A and action independent value function V: <span class="math display">\[ Q(\phi, a | \theta, \alpha, \beta) = A(\phi, a | \theta, \alpha) + V(\phi|\theta, \beta)\]</span></li>
+<li>Adjustment: subtract an average advantage value of all action <span class="math display">\[ Q(\phi, a | \theta, \alpha, \beta) = (A(\phi, a | \theta, \alpha) - \frac{1}{\# a&#39;} \sum_{a&#39;}^{} A(\phi, a&#39;| \theta, \alpha)  ) + V(\phi|\theta, \beta) \]</span></li>
+</ul></li>
+</ul>
+<p><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/MFEassy/double_q.png" /></p>
+<ul>
+<li>Environment ‘Intraday’ trading rules
+<ul>
+<li>The agent is can only execute 2 day-trades in these 390 steps. Day-trade is counted as a buy order and then followed by a sell order.</li>
+<li>Each order will cost 0.5% transaction fee.</li>
+<li>Buy order will always be executed at the high price of the current time step bar. Similarly sell order will always be executed at the low price of the current bar.</li>
+<li>Sequence of order execution for 2 day-trades should be buy, sell, buy, sell. Buy order only submit when there is no buy order exists. Same, sell order cannot repeat twice since there is no stock hold at agent’s hand.</li>
+<li>There is no overnight holding, all the remaining stock will be clear (sell) at the end by ‘intraday’ exchange.</li>
+</ul></li>
+</ul>
+<h1 id="data"><strong>Data</strong></h1>
+<p>Symbols: 'AMP', 'INTC', 'AMZN', 'ANTM', 'T', 'AXP', 'ACN', 'ABC', 'UNH', 'WMT', 'APH', 'AMG', 'AEP', 'APD', 'ALLE', 'ARE', 'MA', 'PG', 'AIG', 'ALL', 'AEE', 'AWK', 'GE', 'MMM', 'PFE', 'WFC', 'ABT', 'ABBV', 'AES', 'AAP', 'AMT', 'CSCO', 'AME', 'AGN', 'APC', 'A', 'AAPL', 'VZ', 'ADS', 'BAC', 'CVX', 'AFL', 'JPM'</p>
+<p>Fields: YYYY.MM.DD HH.MM.SS | OPEN | HIGH | LOW | CLOSE | VOLUME | NUMBER OF TRADES | WEIGHTED, AV. PRICE</p>
+<p>Available data from <a href="http://firstratedata.com/" target="_blank" rel="noopener">firstratedata</a>:</p>
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>symbols</th>
+<th>Max date range</th>
+<th>Max time points</th>
+<th>Time range</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Hour</td>
+<td>486</td>
+<td>2004.01-2019.03</td>
+<td>7 hours bar/day</td>
+<td>9:30 - 15:00</td>
+</tr>
+<tr class="even">
+<td>Min</td>
+<td>47</td>
+<td>2004.01-2019.03</td>
+<td>390 mins bar/day</td>
+<td>9:30 - 15:59</td>
+</tr>
+</tbody>
+</table>
+<h1 id="slides"><strong>Slides</strong></h1>
+<div class="pdf" target="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/MFEassy/rftrading.pdf" height=""></div>
+]]></content>
+      <categories>
+        <category>Research &amp; Projects</category>
+      </categories>
+      <tags>
+        <tag>Reinforcement Learning</tag>
+        <tag>Intraday trading</tag>
+        <tag>Rutgers MSMF</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Chinese Service Trade Network Structure</title>
     <url>/2017/12/10/Network/</url>
-    <content><![CDATA[<p>&quot;<em>Chinese service trade network structure and dynamic evolution of its industrial position</em>&quot;, <strong>China Network for Social Network Analysis (CNSNS) Conference</strong></p>
+    <content><![CDATA[<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/service/network_1.png" /></div><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/service/network_2.png" /></div></div></div></div>
+<p>&quot;<em>Chinese service trade network structure and dynamic evolution of its industrial position</em>&quot;, <strong>China Network for Social Network Analysis (CNSNS) Conference</strong></p>
 <p><strong>Author</strong>：<a href="http://sib.swufe.edu.cn/2012-05/04/201205041337276219.html" target="_blank" rel="noopener">X. Yao</a>, Y. Wu, W. C. Zhang*(corresponding)</p>
 <p><strong>Abstract</strong>: This paper applies the world input-output table of Eora 26 database to building the integrated and ego network both of the world and China, and decomposes the basic characteristics of the network's structure, especially observing the dynamic effects of the crisis on development of China's service trade sectors. <a id="more"></a> This paper also takes the perspect of network of global industrial support, simultaneously analyzing the evolution of key industries in China's service trade with domestic ratio of value-added during the year 2004~2013 and then locates the direction for position development of heterogeneous sectors. The results show that the development of China's service trade falls into the &quot;Low Ratio of Value-Added Trap&quot;, and the structure of our service trade is not strong enough to defend the crisis. However, the development of our service trade still displays the extensive form, and tends to develop trade relationship with the emerging markets at this stage. During the period of 13th Five-Year, how to materialize the adjustment of the structure to prompt the quality of service trade and improve the crisis-defending competence becomes an imperative task ahead.</p>
 <p><strong>Keywords</strong>: Financial Crisis; Trade in Service Network; &quot;Low Ratio of Value-Added Trap&quot;；Strutual Adjustment</p>
@@ -19,7 +92,8 @@
   <entry>
     <title>The Mining and Analysis of Web Recruitment Information</title>
     <url>/2017/12/10/Data/</url>
-    <content><![CDATA[<p>&quot;<em>The Mining and Analysis of Web Recruitment Information Based on Document mining, Occupation Network and Time Series Model</em>&quot;, <strong>4th TipDM Cup National Data Mining Race Project</strong></p>
+    <content><![CDATA[<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/datamining/cluster_s.png" /></div><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/datamining/net_s.png" /></div></div></div></div>
+<p>&quot;<em>The Mining and Analysis of Web Recruitment Information Based on Document mining, Occupation Network and Time Series Model</em>&quot;, <strong>4th TipDM Cup National Data Mining Race Project</strong></p>
 <p><strong>Author</strong>：W. C. Zhang, Y. Wu, Y. R. Han</p>
 <p><strong>Abstract</strong>: With the development of network applications, more and more recruitments information is listed on the webs, and these information reflects the certain assignments of the firms on their future crews, these properties including the occupation need, competences and skills. Meanwhile, these information also provides universities and colleges for knowing the update demand of the talents from the society in time, and then arraneging the majors and courses, which also promotes the academic performance of students.</p>
 <a id="more"></a>
@@ -37,7 +111,8 @@
   <entry>
     <title>Quantitative Method &amp; Statistical Arbitrage in Chinese Options Market</title>
     <url>/2017/12/10/Dissertation/</url>
-    <content><![CDATA[<p>&quot;<em>Quantitative Method and Statistical Arbitrage in Chinese Options Market aiming at 510050.SS ETF options</em>&quot;, <strong>Honors Thesis in International Business</strong></p>
+    <content><![CDATA[<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/dissertation/implied.png" /></div><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/dissertation/sensitivity.png" /></div></div></div></div>
+<p>&quot;<em>Quantitative Method and Statistical Arbitrage in Chinese Options Market aiming at 510050.SS ETF options</em>&quot;, <strong>Honors Thesis in International Business</strong></p>
 <p><strong>Purpose</strong> – Using quantitative method to analyze options series underlying at 510050.SS ETF, deploying two hedging strategy belongs to statistical arbitrage to test its profitability on certain financial instruments, and further investigating volatility patterns.</p>
 <a id="more"></a>
 <p><strong>Design/methodology/approach</strong> – Analyzing the specific risk and P&amp;L indicator of the options, and conducting a simulation of Greeks neutral hedging strategy then indicating the importance of volatility in arbitrage. Options market data set are used to constructing the volatility surface with local and stochastic volatility, which gives us an overlook to the option market implied volatility along with the analysis of the different surface structures.</p>
