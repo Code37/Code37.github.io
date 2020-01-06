@@ -13,7 +13,7 @@
 <ul>
 <li>Dueling and double DQN model
 <ul>
-<li>Double Q value function is to remove the overestimate bias. The redefined loss functions: <span class="math display">\[ L_i(\theta_i) = \mathbb{E}_{s_{t},a_{t},r,s_{t+1} \sim D_i} [ (\mathbb{E}_{s_{t+1} \sim \mathcal{E}} [r_t + \gamma Q(\phi_{t+1}, \underset{\a &#39;}{\operatorname{arg max}}{Q}(\phi_{t+1}, \a &#39;|\theta_i)|\theta^{-})] - \gamma Q(\phi_t,a_t | \theta_i))^2 ]  \]</span></li>
+<li>Double Q value function is to remove the overestimate bias. The redefined loss functions: <span class="math display">\[ L_i(\theta_i) = \mathbb{E}_{s_{t},a_{t},r,s_{t+1} \sim D_i} [ (\mathbb{E}_{s_{t+1} \sim \mathcal{E}} [r_t + \gamma Q(\phi_{t+1}, \underset{a&#39;}{\operatorname{arg max}}{Q}(\phi_{t+1}, a&#39;|\theta_i)|\theta^{-})] - \gamma Q(\phi_t,a_t | \theta_i))^2 ]  \]</span></li>
 <li>Dueling network separates Q network to two control layers: action dependent advantage function A and action independent value function V: <span class="math display">\[ Q(\phi, a | \theta, \alpha, \beta) = A(\phi, a | \theta, \alpha) + V(\phi|\theta, \beta)\]</span></li>
 <li>Adjustment: subtract an average advantage value of all action <span class="math display">\[ Q(\phi, a | \theta, \alpha, \beta) = (A(\phi, a | \theta, \alpha) - \frac{1}{\# a&#39;} \sum_{a&#39;}^{} A(\phi, a&#39;| \theta, \alpha)  ) + V(\phi|\theta, \beta) \]</span></li>
 </ul></li>
