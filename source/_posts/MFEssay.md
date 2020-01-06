@@ -26,7 +26,7 @@ Training an agent use the DQN Dueling network and double Q value function in the
 
 - Dueling and double DQN model
     - Double Q value function is to remove the overestimate bias. The redefined loss functions:
-$$ L_i(\theta_i) = \mathbb{E}_{s_{t},a_{t},r,s_{t+1} \sim D_i} [ (\mathbb{E}_{s_{t+1} \sim \mathcal{E}} [r_t + \gamma Q(\phi_{t+1}, \underset{\a '}{\operatorname{arg max}}{Q}(\phi_{t+1}, \a '|\theta_i)|\theta^{-})] - \gamma Q(\phi_t,a_t | \theta_i))^2 ]  $$
+$$ L_i(\theta_i) = \mathbb{E}_{s_{t},a_{t},r,s_{t+1} \sim D_i} [ (\mathbb{E}_{s_{t+1} \sim \mathcal{E}} [r_t + \gamma Q(\phi_{t+1}, \underset{a'}{\operatorname{arg max}}{Q}(\phi_{t+1}, a'|\theta_i)|\theta^{-})] - \gamma Q(\phi_t,a_t | \theta_i))^2 ]  $$
     - Dueling network separates Q network to two control layers: action dependent advantage function A and action independent value function V:
         $$ Q(\phi, a | \theta, \alpha, \beta) = A(\phi, a | \theta, \alpha) + V(\phi|\theta, \beta)$$
     - Adjustment: subtract an average advantage value of all action
