@@ -4,7 +4,6 @@ tags:
   - CQF
   - Quant
 photos:
-  - 'http://www.cqf.com/sites/default/files/styles/frontpage_slide_img/public/Sample%20lectures_0.jpg?itok=LY_zBzGO'
 date: 2017-12-06 12:59:31
 categories: CQF Problem Session
 ---

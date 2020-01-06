@@ -4,11 +4,14 @@ tags:
   - Volatility
   - Hedging
 photos:
-  - 'http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/dissertation/sensitivity.png'
-  - 'http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/dissertation/implied.png'
 date: 2017-12-10 18:06:16
 categories: Research & Projects
 ---
+
+{% gp 2-2 %}
+![](http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/dissertation/implied.png)
+![](http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/dissertation/sensitivity.png)
+{% endgp %}
 
 "*Quantitative Method and Statistical Arbitrage in Chinese Options Market aiming at 510050.SS ETF options*", **Honors Thesis in International Business**
 

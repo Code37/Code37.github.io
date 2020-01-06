@@ -1,13 +1,17 @@
 ---
 title: The Mining and Analysis of Web Recruitment Information
+layout: post
 tags:
   - Data Mining
 photos:
-  - 'http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/datamining/cluster_s.png'
-  - 'http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/datamining/net_s.png'
 date: 2017-12-10 18:08:44
 categories: Research & Projects
 ---
+
+{% gp 2-2 %}
+![](http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/datamining/cluster_s.png)
+![](http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/datamining/net_s.png)
+{% endgp %}
 
 "*The Mining and Analysis of Web Recruitment Information Based on Document mining, Occupation Network and Time Series Model*", **4th TipDM Cup National Data Mining Race Project**
 
@@ -22,3 +26,5 @@ However, is there any relationship among occupations and degrees and working exp
 In data mining process, we first use R toprocess unstructured data, segment Chinese words and filter disable word with package `tm`, meanwhile constructing Volatile Corpus with `Rwordseg`, which realizes clearing up unstructured data in recruitment information. Secondly, we construct a complex network model transform from TF-IDF term matrix to find the correlation between the talent recruitment information, which is the basis for the subsequent hierarchical description. As a result, we extract the structured data in the work experience, education level, salary level, geographical distribution and release time to give a multi-dimension description for talent demand. Moreover, time series model predicts jobs quantity showing the urge demand in data mining industry. Finally, based on CIER, we deeply analyse supply and demand of IT industry and its trend in future development by the methods combined statistics and economics.
 
 **Key words**: Data Preprocess; Text Mining Complex; Time-Series Modeling
+
+

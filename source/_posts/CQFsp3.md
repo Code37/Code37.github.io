@@ -4,7 +4,6 @@ tags:
   - CQF
   - Quant
 photos:
-  - 'https://www.cqfinstitute.org/sites/default/files/0004HoHe-CQFI_0.jpg'
 date: 2017-12-06 22:47:11
 categories: CQF Problem Session
 ---

@@ -4,11 +4,14 @@ tags:
   - Network
   - Internatioanl Trade
 photos:
-- 'http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/service/network_1.png'
-- 'http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/service/network_2.png'
 date: 2017-12-10 19:06:05
 categories: Research & Projects
 ---
+
+{% gp 2-2 %}
+![](http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/service/network_1.png)
+![](http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/service/network_2.png)
+{% endgp %}
 
 "*Chinese service trade network structure and dynamic evolution of its industrial position*", **China Network for Social Network Analysis (CNSNS) Conference**
 

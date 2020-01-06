@@ -4,7 +4,6 @@ tags:
   - CQF
   - Quant
 photos:
-  - 'http://www.cqf.com/sites/default/files/styles/frontpage_slide_img/public/Welcome%20to%20the%20CQF.jpg?itok=0Cwxk3qm'
 date: 2017-12-05 12:59:31
 categories: CQF Problem Session
 ---

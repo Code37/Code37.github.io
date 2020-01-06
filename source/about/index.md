@@ -13,13 +13,18 @@ I am now a candidate in M.S. Mathematical Finance at Rutgers.  Welcome to my per
 
 ## <i class="fa fa-pencil"></i> Research Interest
 - Quantitative Finance
-- Algorithm Trading
+- Algorithm Trading and Order Routing
 - Backtesting Framework
+- Portfolio Management and Optimization
 
 ## <i class="fa fa-graduation-cap"></i> Education
+- **Princeton University**
+    - Inter-University Doctoral Consortium Exchange, Feb.2019 ~ May.2020
+    - ORF 523 Convex and conic optimization; ELE 535 Machine learning and pattern recognition
+    
 - **Rutgers University, New Brunswick**
-    - M.S. Mathematical Finance, Department of Mathematics
-    - In progress
+    - M.S. Mathematical Finance, Department of Mathematics, Aug.2018 ~ May.2020
+    - Numerical Analysis I & II; Econometrics I & II; Math Finance I & II; Portfolio Theory and Application
 
 - **Certificate in Quantitative Finance (CQF)**
     - Distinction | Wilmott Award for Excellence, 2018
@@ -35,7 +40,8 @@ I am now a candidate in M.S. Mathematical Finance at Rutgers.  Welcome to my per
 
 
 ## <i class="fa fa-black-tie"></i> Experience
-- Financial Engineering Assistant, Investment Research Platform, SooChow Fintech Ltd., 2018
+- Quantitative Analyst/Developer, Iyka Trader, Compuvision consulting Inc., 2018 - present
+- Financial Engineering Assistant, Investment Research, SooChow Fintech Ltd., 2018
 - Quantitative trading Assistant, Wealth Management Center, Haitong Securities, 2016
 - OTC products Assistant (Intern), Headquarters of the OTC market services, Orient Securities, 2016
 - Assistant (Intern), Operational Headquarters, Orient Securities, 2015
@@ -43,6 +49,7 @@ I am now a candidate in M.S. Mathematical Finance at Rutgers.  Welcome to my per
 - Individual Introducing Broker (Part-time), AETOS Capital Group, Chinese Department, 2014~2016
 
 ## <i class="fa fa-product-hunt"></i> Research & Projects
+- "*Dueling Double Deep Q learning in intraday trading*", **Masters of Mathematical Finance degree Essay**, 2019 {% post_link MFEssay [Abstract] %}
 - "Open-Source python package *factorset*", **Independent Research Project in SooChow Fintech Ltd.**, 2018 [[Link]](https://factorset.readthedocs.io/)
 - "*Backtesting on Black-Litterman Model with Classifier Views and Robust Volatility*", **Certificate in Quantitative Finance Final Project**, 2018
 - "*Think on Backtesting*", **Working report in Haitong Wealth Management Center**, 2017 [[PPT]](http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/backtest/Think_on_Backtesting.pdf)

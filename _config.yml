@@ -98,9 +98,12 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/Code37/Code37.github.io.git
-  branch: master
+  -
+    type: git
+    repo: https://github.com/Code37/Code37.github.io.git
+    branch: master
+  -
+    type: leancloud_counter_security_sync
 
 search:
   path: search.xml
@@ -134,3 +137,17 @@ flowchart:
   # raphael:   # optional, the source url of raphael.js
   # flowchart: # optional, the source url of flowchart.js
   options: # options used for `drawSVG`
+
+browsersync:
+  logLevel: "warn"
+  ghostMode:
+    scroll: true
+  instanceName: "uniqueString"
+
+
+leancloud_counter_security:
+  enable_sync: true
+  app_id: 3vPs64fwWVLvf3eBsxGJ8tA1-gzGzoHsz
+  app_key: 0EkEiTsX0mnJxowo5nx79oDB
+  username: code37 # Will be asked while deploying if is left blank
+  password: # Recommmended to be left blank. Will be asked while deploying if is left blank
