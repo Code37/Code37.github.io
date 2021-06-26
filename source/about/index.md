@@ -20,7 +20,7 @@ I am now a candidate in M.S. Mathematical Finance at Rutgers.  Welcome to my per
 ## <i class="fa fa-graduation-cap"></i> Education
 - **Princeton University**
     - Inter-University Doctoral Consortium Exchange, Feb.2019 ~ May.2020
-    - ORF 523 Convex and conic optimization; ELE 535 Machine learning and pattern recognition
+    - ORF 523 Convex and conic optimization; ELE 535 Machine learning and pattern recognition ; FIN580 Quantitative data analysis in Finance
     
 - **Rutgers University, New Brunswick**
     - M.S. Mathematical Finance, Department of Mathematics, Aug.2018 ~ May.2020
@@ -40,7 +40,8 @@ I am now a candidate in M.S. Mathematical Finance at Rutgers.  Welcome to my per
 
 
 ## <i class="fa fa-black-tie"></i> Experience
-- Quantitative Analyst/Developer, Iyka Trader, Compuvision consulting Inc., 2018 - present
+- Quantitative Analyst/Developer, Zenik Market Technologies LLC., 2020 - present
+- Quantitative Analyst/Developer, Iyka Trader, Compuvision consulting Inc., 2018 - 2020
 - Financial Engineering Assistant, Investment Research, SooChow Fintech Ltd., 2018
 - Quantitative trading Assistant, Wealth Management Center, Haitong Securities, 2016
 - OTC products Assistant (Intern), Headquarters of the OTC market services, Orient Securities, 2016
@@ -49,6 +50,7 @@ I am now a candidate in M.S. Mathematical Finance at Rutgers.  Welcome to my per
 - Individual Introducing Broker (Part-time), AETOS Capital Group, Chinese Department, 2014~2016
 
 ## <i class="fa fa-product-hunt"></i> Research & Projects
+- "*Quant Lectures - Review of P and Q*", 2020
 - "*Dueling Double Deep Q learning in intraday trading*", **Masters of Mathematical Finance degree Essay**, 2019 {% post_link MFEssay [Abstract] %}
 - "Open-Source python package *factorset*", **Independent Research Project in SooChow Fintech Ltd.**, 2018 [[Link]](https://factorset.readthedocs.io/)
 - "*Backtesting on Black-Litterman Model with Classifier Views and Robust Volatility*", **Certificate in Quantitative Finance Final Project**, 2018
@@ -63,7 +65,7 @@ Financial Time Series Analysis Course project, 2016
 - "*Risk attitude of entrepreneurs in corporate operation*", SWUFE undergraduate Grade A research projects, 2015
 
 ## <i class="fa fa-trophy"></i> Awards, Grants & Honours
-- Wilmott Award for Excellence, Best mark in final exam; Distinction, 2018
+- Wilmott Award for Excellence, Best mark in the final exam; Distinction, 2018
 - Outstanding Undergraduate Thesis (Winner in IB School), 2017
 - Meritorious, TipDM Cup National Data Mining Race (Rank: 44/1665), 2016
 - Honorable Mention, 2016 Mathematical Contest in Modeling (Team 47961), 2016
@@ -72,7 +74,5 @@ Financial Time Series Analysis Course project, 2016
 
 ## <i class="fa fa-address-book-o"></i> Contact Information
 Wenchao Zhang
-
-8007 BPO way, Piscataway Township, NJ
 
 Email: Wenchao.Zhang@rutgers.edu
