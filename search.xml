@@ -4,7 +4,7 @@
     <title>Dueling Double Deep Q learning in intraday trading</title>
     <url>/2020/01/04/MFEssay/</url>
     <content><![CDATA[<p><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/MFEassy/action.png" /></p>
-<p>&quot;<em>Dueling Double Deep Q learning in intraday trading</em>&quot;, <strong>Math 625 Portfolio Theory and Application Final Project</strong></p>
+<p>"<em>Dueling Double Deep Q learning in intraday trading</em>", <strong>Math 625 Portfolio Theory and Application Final Project</strong></p>
 <p><strong>Keywords</strong>: Reinforcement Learning; Intraday trading; US stocks</p>
 <a id="more"></a>
 <h1 id="purpose"><strong>Purpose</strong></h1>
@@ -32,7 +32,7 @@
 <h1 id="data"><strong>Data</strong></h1>
 <p>Symbols: 'AMP', 'INTC', 'AMZN', 'ANTM', 'T', 'AXP', 'ACN', 'ABC', 'UNH', 'WMT', 'APH', 'AMG', 'AEP', 'APD', 'ALLE', 'ARE', 'MA', 'PG', 'AIG', 'ALL', 'AEE', 'AWK', 'GE', 'MMM', 'PFE', 'WFC', 'ABT', 'ABBV', 'AES', 'AAP', 'AMT', 'CSCO', 'AME', 'AGN', 'APC', 'A', 'AAPL', 'VZ', 'ADS', 'BAC', 'CVX', 'AFL', 'JPM'</p>
 <p>Fields: YYYY.MM.DD HH.MM.SS | OPEN | HIGH | LOW | CLOSE | VOLUME | NUMBER OF TRADES | WEIGHTED, AV. PRICE</p>
-<p>Available data from <a href="http://firstratedata.com/" target="_blank" rel="noopener">firstratedata</a>:</p>
+<p>Available data from <a href="http://firstratedata.com/">firstratedata</a>:</p>
 <table>
 <thead>
 <tr class="header">
@@ -76,10 +76,10 @@
     <title>Chinese Service Trade Network Structure</title>
     <url>/2017/12/10/Network/</url>
     <content><![CDATA[<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/service/network_1.png" /></div><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/service/network_2.png" /></div></div></div></div>
-<p>&quot;<em>Chinese service trade network structure and dynamic evolution of its industrial position</em>&quot;, <strong>China Network for Social Network Analysis (CNSNS) Conference</strong></p>
-<p><strong>Author</strong>：<a href="http://sib.swufe.edu.cn/2012-05/04/201205041337276219.html" target="_blank" rel="noopener">X. Yao</a>, Y. Wu, W. C. Zhang*(corresponding)</p>
-<p><strong>Abstract</strong>: This paper applies the world input-output table of Eora 26 database to building the integrated and ego network both of the world and China, and decomposes the basic characteristics of the network's structure, especially observing the dynamic effects of the crisis on development of China's service trade sectors. <a id="more"></a> This paper also takes the perspect of network of global industrial support, simultaneously analyzing the evolution of key industries in China's service trade with domestic ratio of value-added during the year 2004~2013 and then locates the direction for position development of heterogeneous sectors. The results show that the development of China's service trade falls into the &quot;Low Ratio of Value-Added Trap&quot;, and the structure of our service trade is not strong enough to defend the crisis. However, the development of our service trade still displays the extensive form, and tends to develop trade relationship with the emerging markets at this stage. During the period of 13th Five-Year, how to materialize the adjustment of the structure to prompt the quality of service trade and improve the crisis-defending competence becomes an imperative task ahead.</p>
-<p><strong>Keywords</strong>: Financial Crisis; Trade in Service Network; &quot;Low Ratio of Value-Added Trap&quot;；Strutual Adjustment</p>
+<p>"<em>Chinese service trade network structure and dynamic evolution of its industrial position</em>", <strong>China Network for Social Network Analysis (CNSNS) Conference</strong></p>
+<p><strong>Author</strong>：<a href="http://sib.swufe.edu.cn/2012-05/04/201205041337276219.html">X. Yao</a>, Y. Wu, W. C. Zhang*(corresponding)</p>
+<p><strong>Abstract</strong>: This paper applies the world input-output table of Eora 26 database to building the integrated and ego network both of the world and China, and decomposes the basic characteristics of the network's structure, especially observing the dynamic effects of the crisis on development of China's service trade sectors. <a id="more"></a> This paper also takes the perspect of network of global industrial support, simultaneously analyzing the evolution of key industries in China's service trade with domestic ratio of value-added during the year 2004~2013 and then locates the direction for position development of heterogeneous sectors. The results show that the development of China's service trade falls into the "Low Ratio of Value-Added Trap", and the structure of our service trade is not strong enough to defend the crisis. However, the development of our service trade still displays the extensive form, and tends to develop trade relationship with the emerging markets at this stage. During the period of 13th Five-Year, how to materialize the adjustment of the structure to prompt the quality of service trade and improve the crisis-defending competence becomes an imperative task ahead.</p>
+<p><strong>Keywords</strong>: Financial Crisis; Trade in Service Network; "Low Ratio of Value-Added Trap"；Strutual Adjustment</p>
 ]]></content>
       <categories>
         <category>Research &amp; Projects</category>
@@ -93,7 +93,7 @@
     <title>The Mining and Analysis of Web Recruitment Information</title>
     <url>/2017/12/10/Data/</url>
     <content><![CDATA[<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/datamining/cluster_s.png" /></div><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/datamining/net_s.png" /></div></div></div></div>
-<p>&quot;<em>The Mining and Analysis of Web Recruitment Information Based on Document mining, Occupation Network and Time Series Model</em>&quot;, <strong>4th TipDM Cup National Data Mining Race Project</strong></p>
+<p>"<em>The Mining and Analysis of Web Recruitment Information Based on Document mining, Occupation Network and Time Series Model</em>", <strong>4th TipDM Cup National Data Mining Race Project</strong></p>
 <p><strong>Author</strong>：W. C. Zhang, Y. Wu, Y. R. Han</p>
 <p><strong>Abstract</strong>: With the development of network applications, more and more recruitments information is listed on the webs, and these information reflects the certain assignments of the firms on their future crews, these properties including the occupation need, competences and skills. Meanwhile, these information also provides universities and colleges for knowing the update demand of the talents from the society in time, and then arraneging the majors and courses, which also promotes the academic performance of students.</p>
 <a id="more"></a>
@@ -112,7 +112,7 @@
     <title>Quantitative Method &amp; Statistical Arbitrage in Chinese Options Market</title>
     <url>/2017/12/10/Dissertation/</url>
     <content><![CDATA[<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/dissertation/implied.png" /></div><div class="group-picture-column" style="width: 50%;"><img src="http://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/research/dissertation/sensitivity.png" /></div></div></div></div>
-<p>&quot;<em>Quantitative Method and Statistical Arbitrage in Chinese Options Market aiming at 510050.SS ETF options</em>&quot;, <strong>Honors Thesis in International Business</strong></p>
+<p>"<em>Quantitative Method and Statistical Arbitrage in Chinese Options Market aiming at 510050.SS ETF options</em>", <strong>Honors Thesis in International Business</strong></p>
 <p><strong>Purpose</strong> – Using quantitative method to analyze options series underlying at 510050.SS ETF, deploying two hedging strategy belongs to statistical arbitrage to test its profitability on certain financial instruments, and further investigating volatility patterns.</p>
 <a id="more"></a>
 <p><strong>Design/methodology/approach</strong> – Analyzing the specific risk and P&amp;L indicator of the options, and conducting a simulation of Greeks neutral hedging strategy then indicating the importance of volatility in arbitrage. Options market data set are used to constructing the volatility surface with local and stochastic volatility, which gives us an overlook to the option market implied volatility along with the analysis of the different surface structures.</p>
@@ -134,7 +134,7 @@
     <title>Notes for CQF Problem Session - Part IV</title>
     <url>/2017/12/06/CQFsp4/</url>
     <content><![CDATA[<h1 id="notes-for-cqf-problem-session---part-iv">Notes for CQF Problem Session - Part IV</h1>
-<p>This page may help Quant seeker to review Math topics in quantitative finance, especially for CQF delegates. For the purpose of study, I compile these notes from the hand-write Support Session lectures of <a href="http://www.cqf.com/lecturers/profiles?page=2" target="_blank" rel="noopener">Prof. Riaz Ahmad</a>.</p>
+<p>This page may help Quant seeker to review Math topics in quantitative finance, especially for CQF delegates. For the purpose of study, I compile these notes from the hand-write Support Session lectures of <a href="http://www.cqf.com/lecturers/profiles?page=2">Prof. Riaz Ahmad</a>.</p>
 <p><strong>Topic:</strong> <em>Transform Methods</em>, <em>Bond Pricing</em></p>
 <hr />
 <a id="more"></a>
@@ -157,7 +157,7 @@
     <title>Notes for CQF Problem Session - Part III</title>
     <url>/2017/12/06/CQFsp3/</url>
     <content><![CDATA[<h1 id="notes-for-cqf-problem-session---part-iii">Notes for CQF Problem Session - Part III</h1>
-<p>This page may help Quant seeker to review Math topics in quantitative finance, especially for CQF delegates. For the purpose of study, I compile these notes from the hand-write Support Session lectures of <a href="http://www.cqf.com/lecturers/profiles?page=2" target="_blank" rel="noopener">Prof. Riaz Ahmad</a>.</p>
+<p>This page may help Quant seeker to review Math topics in quantitative finance, especially for CQF delegates. For the purpose of study, I compile these notes from the hand-write Support Session lectures of <a href="http://www.cqf.com/lecturers/profiles?page=2">Prof. Riaz Ahmad</a>.</p>
 <p><strong>Topic:</strong> <em>Portfolio Optimisation</em>, <em>Option Pricing</em>, <em>Computational Finance</em></p>
 <hr />
 <a id="more"></a>
@@ -180,7 +180,7 @@
     <title>Notes for CQF Problem Session - Part II</title>
     <url>/2017/12/06/CQFsp2/</url>
     <content><![CDATA[<h1 id="notes-for-cqf-problem-session---part-ii">Notes for CQF Problem Session - Part II</h1>
-<p>This page may help Quant seeker to review Math topics in quantitative finance, especially for CQF delegates. For the purpose of study, I compile these notes from the hand-write Support Session lectures of <a href="http://www.cqf.com/lecturers/profiles?page=2" target="_blank" rel="noopener">Prof. Riaz Ahmad</a>.</p>
+<p>This page may help Quant seeker to review Math topics in quantitative finance, especially for CQF delegates. For the purpose of study, I compile these notes from the hand-write Support Session lectures of <a href="http://www.cqf.com/lecturers/profiles?page=2">Prof. Riaz Ahmad</a>.</p>
 <p><strong>Topic:</strong> <em>Stochastic Calculus</em>, <em>Binomial Model</em>, <em>Numerical Methods</em></p>
 <hr />
 <a id="more"></a>
@@ -203,7 +203,7 @@
     <title>Notes for CQF Problem Session - Part I</title>
     <url>/2017/12/05/CQFsp1/</url>
     <content><![CDATA[<h1 id="notes-for-cqf-problem-session---part-i">Notes for CQF Problem Session - Part I</h1>
-<p>This page may help Quant seeker to review Math topics in quantitative finance, especially for CQF delegates. For the purpose of study, I compile these notes from the hand-write Support Session lectures of <a href="http://www.cqf.com/lecturers/profiles?page=2" target="_blank" rel="noopener">Prof. Riaz Ahmad</a>.</p>
+<p>This page may help Quant seeker to review Math topics in quantitative finance, especially for CQF delegates. For the purpose of study, I compile these notes from the hand-write Support Session lectures of <a href="http://www.cqf.com/lecturers/profiles?page=2">Prof. Riaz Ahmad</a>.</p>
 <p><strong>Topic:</strong> <em>Differential Equation</em>, <em>Applied Calculus</em>, <em>Diffusion Equation</em></p>
 <hr />
 <a id="more"></a>
@@ -241,7 +241,7 @@
 <h2 id="外链接">外链接</h2>
 <p>使用 [描述](链接地址) 为文字增加外链接。</p>
 <p>示例：</p>
-<p>这是去往 <a href="http://ghosertblog.github.com" target="_blank" rel="noopener">本人博客</a> 的链接。</p>
+<p>这是去往 <a href="http://ghosertblog.github.com">本人博客</a> 的链接。</p>
 <h2 id="无序列表">无序列表</h2>
 <p>使用 *，+，- 表示无序列表。</p>
 <p>示例：</p>
@@ -269,7 +269,7 @@
 <p>示例：</p>
 <p>让我们聊聊 <code>html</code>。</p>
 <p><span id="inline-red">red（#FF0000</span> <span id="inline-yellow">yellow（#FFFF00</span> <span id="inline-blue">蓝色</span> <span id="inline-green">绿色</span> <span id="inline-cyan">青色</span> <span id="inline-orange">橙色</span> <span id="inline-purple">紫色</span> <span id="inline-gray">灰色</span> <span id="inline-white">白色</span> <span id="inline-brown">棕色</span> <span id="inline-pink">粉红色</span></p>
-<p><a href="http://yangbingdong.com/2017/build-blog-hexo-advanced/#好玩的样式" target="_blank" rel="noopener">More custom style info</a></p>
+<p><a href="http://yangbingdong.com/2017/build-blog-hexo-advanced/#好玩的样式">More custom style info</a></p>
 <h2 id="代码块">代码块</h2>
 <p>使用 四个缩进空格 表示代码块。</p>
 <p>示例：</p>
@@ -278,14 +278,14 @@
 <p>使用 ![描述](图片链接地址) 插入图像。</p>
 <p>示例：</p>
 <figure>
-<img src="http://wenchao4quant.cn/images/avatar.gif" alt="我的头像" /><figcaption>我的头像</figcaption>
+<img src="http://wenchao4quant.cn/images/avatar.gif" alt="" /><figcaption>我的头像</figcaption>
 </figure>
 <h1 id="markdown-advance">Markdown Advance</h1>
 <h2 id="删除线">删除线</h2>
 <p>使用 ~~ 表示删除线。</p>
 <p><del>这是一段错误的文本。</del></p>
 <h2 id="footnote">Footnote</h2>
-<p>basic footnote<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> here is an inline footnote [^2](inline footnote) and another one<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a> and another one<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a></p>
+<p>basic footnote<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> here is an inline footnote [^2](inline footnote) and another one<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> and another one<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
 <h2 id="latex-公式">LaTeX 公式</h2>
 <p>$ 表示inline公式：</p>
 <p>质能守恒方程可以用一个很简洁的方程式 <span class="math inline">\(E=mc^2\)</span> 来表达。</p>
@@ -309,7 +309,7 @@ x &amp;= a +b+c+d\\
 <p>非代码示例：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ sudo apt-get install vim-gnome</span><br></pre></td></tr></table></figure>
 <p>Python 示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">@requires_authorization</span></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">somefunc</span><span class="params">(param1=<span class="string">''</span>, param2=<span class="number">0</span>)</span>:</span></span><br><span class="line">    <span class="string">'''A docstring'''</span></span><br><span class="line">    <span class="keyword">if</span> param1 &gt; param2: <span class="comment"># interesting</span></span><br><span class="line">        <span class="keyword">print</span> <span class="string">'Greater'</span></span><br><span class="line">    <span class="keyword">return</span> (param2 - param1 + <span class="number">1</span>) <span class="keyword">or</span> <span class="literal">None</span></span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">SomeClass</span>:</span></span><br><span class="line">    <span class="keyword">pass</span></span><br><span class="line"></span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>message = <span class="string">'''interpreter</span></span><br><span class="line"><span class="string"><span class="meta">... </span>prompt'''</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">@requires_authorization</span></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">somefunc</span>(<span class="params">param1=<span class="string">&#x27;&#x27;</span>, param2=<span class="number">0</span></span>):</span></span><br><span class="line">    <span class="string">&#x27;&#x27;&#x27;A docstring&#x27;&#x27;&#x27;</span></span><br><span class="line">    <span class="keyword">if</span> param1 &gt; param2: <span class="comment"># interesting</span></span><br><span class="line">        <span class="built_in">print</span> <span class="string">&#x27;Greater&#x27;</span></span><br><span class="line">    <span class="keyword">return</span> (param2 - param1 + <span class="number">1</span>) <span class="keyword">or</span> <span class="literal">None</span></span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">SomeClass</span>:</span></span><br><span class="line">    <span class="keyword">pass</span></span><br><span class="line"></span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>message = <span class="string">&#x27;&#x27;&#x27;interpreter</span></span><br><span class="line"><span class="string"><span class="meta">... </span>prompt&#x27;&#x27;&#x27;</span></span><br></pre></td></tr></table></figure>
 <p>JavaScript 示例：</p>
 <figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment">* nth element in the fibonacci series.</span></span><br><span class="line"><span class="comment">* <span class="doctag">@param </span>n &gt;= 0</span></span><br><span class="line"><span class="comment">* <span class="doctag">@return </span>the nth element, &gt;= 0.</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">fib</span>(<span class="params">n</span>) </span>&#123;</span><br><span class="line">  <span class="keyword">var</span> a = <span class="number">1</span>, b = <span class="number">1</span>;</span><br><span class="line">  <span class="keyword">var</span> tmp;</span><br><span class="line">  <span class="keyword">while</span> (--n &gt;= <span class="number">0</span>) &#123;</span><br><span class="line">    tmp = a;</span><br><span class="line">    a += b;</span><br><span class="line">    b = tmp;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span> a;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="built_in">document</span>.write(fib(<span class="number">10</span>));</span><br></pre></td></tr></table></figure>
 <h2 id="table">Table</h2>
@@ -356,27 +356,21 @@ x &amp;= a +b+c+d\\
 星期三
 </th>
 </tr>
-<tr>
-<td>
-李强
-</td>
-<td>
-张明
-</td>
-<td>
-王平
-</td>
+<pre><code>&lt;tr&gt;
+    &lt;td&gt;李强&lt;/td&gt;
+    &lt;td&gt;张明&lt;/td&gt;
+    &lt;td&gt;王平&lt;/td&gt;</code></pre>
 </tr>
 </table>
 <h2 id="fontawesome">Fontawesome</h2>
 <p>本站的图标系统对外开放，在文档中输入</p>
-<p><code>&lt;i class=&quot;fa fa-fw fa-weibo icon-2x&quot;&gt;&lt;/i&gt;</code></p>
+<pre><code>    `&lt;i class=&quot;fa fa-fw fa-weibo icon-2x&quot;&gt;&lt;/i&gt;`</code></pre>
 <p>即显示微博的图标： <i class="fa fa-fw fa-weibo icon-2x"></i></p>
 <p>替换 上述 <code>i 标签</code> 内的 <code>icon-weibo</code> 以显示不同的图标，例如：</p>
-<p><code>&lt;i class=&quot;fa fa-fw fa-renren icon-2x&quot;&gt;&lt;/i&gt;</code></p>
+<pre><code>    `&lt;i class=&quot;fa fa-fw fa-renren icon-2x&quot;&gt;&lt;/i&gt;`</code></pre>
 <p>即显示人人的图标： <i class="fa fa-fw fa-renren icon-2x"></i></p>
 <p><i class="fa fa-fw fa-flag"></i></p>
-<p>更多的图标和玩法可以参看 <a href="http://fontawesome.io/icons/" target="_blank" rel="noopener">font-awesome</a> 官方网站。</p>
+<p>更多的图标和玩法可以参看 <a href="http://fontawesome.io/icons/">font-awesome</a> 官方网站。</p>
 <h2 id="flowchart">Flowchart</h2>
 <p>The flowchart below use <code>hexo-filter-flowchart</code>.</p>
 <div id="flowchart-0" class="flow-chart">
@@ -393,17 +387,17 @@ x &amp;= a +b+c+d\\
 </li>
 </ul>
 <p>使用带有 [ ] 或 [x] （未完成或已完成）项的列表语法撰写一个待办事宜列表，并且支持子列表嵌套以及混用Markdown语法，例如：</p>
-<ul>
-<li>[ ] <strong>Cmd Markdown 开发</strong> - [ ] 改进 Cmd 渲染算法，使用局部渲染技术提高渲染效率 - [ ] 支持以 PDF 格式导出文稿 - [x] 新增Todo列表功能 <a href="https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments" target="_blank" rel="noopener">语法参考</a> - [x] 改进 LaTex 功能 - [x] 修复 LaTex 公式渲染问题 - [x] 新增 LaTex 公式编号功能 <a href="http://docs.mathjax.org/en/latest/tex.html#tex-eq-numbers" target="_blank" rel="noopener">语法参考</a>
-<ul>
-<li>[ ] <strong>七月旅行准备</strong>
-<ul>
-<li>[ ] 准备邮轮上需要携带的物品</li>
-<li>[ ] 浏览日本免税店的物品</li>
-<li>[x] 购买蓝宝石公主号七月一日的船票</li>
-</ul></li>
-</ul></li>
-</ul>
+<pre><code>- [ ] **Cmd Markdown 开发**
+    - [ ] 改进 Cmd 渲染算法，使用局部渲染技术提高渲染效率
+    - [ ] 支持以 PDF 格式导出文稿
+    - [x] 新增Todo列表功能 [语法参考](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
+    - [x] 改进 LaTex 功能
+        - [x] 修复 LaTex 公式渲染问题
+        - [x] 新增 LaTex 公式编号功能 [语法参考](http://docs.mathjax.org/en/latest/tex.html#tex-eq-numbers)
+- [ ] **七月旅行准备**
+    - [ ] 准备邮轮上需要携带的物品
+    - [ ] 浏览日本免税店的物品
+    - [x] 购买蓝宝石公主号七月一日的船票</code></pre>
 <h2 id="bootstrap-callout">Bootstrap Callout</h2>
 <div class="note default">
             <p>Content (md default supported)</p>
@@ -426,7 +420,7 @@ x &amp;= a +b+c+d\\
 <h2 id="tab-tag">Tab tag</h2>
 <div class="tabs" id="选项卡"><ul class="nav-tabs"><li class="tab"><a href="#选项卡-1">选项卡 1</a></li><li class="tab active"><a href="#选项卡-2">选项卡 2</a></li><li class="tab"><a href="#选项卡-3">选项卡 3</a></li></ul><div class="tab-content"><div class="tab-pane" id="选项卡-1"><p><strong>Tab tag 1</strong> blablabla</p></div><div class="tab-pane active" id="选项卡-2"><p><strong>Tab tag 2</strong></p></div><div class="tab-pane" id="选项卡-3"><p><strong>Tab tag 3</strong> φ(≧ω≦*)♪～</p></div></div></div>
 <div class="tabs" id="sixth-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#sixth-unique-name-1"><i class="fa fa-text-width"></i>Solution 1</a></li><li class="tab"><a href="#sixth-unique-name-2"><i class="fa fa-amazon"></i>Solution 2</a></li><li class="tab"><a href="#sixth-unique-name-3"><i class="fa fa-bold"></i>Solution 3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="sixth-unique-name-1"><p><strong>This is Tab 1.</strong></p></div><div class="tab-pane" id="sixth-unique-name-2"><p><strong>This is Tab 2.</strong></p></div><div class="tab-pane" id="sixth-unique-name-3"><p><strong>This is Tab 3.</strong></p></div></div></div>
-<p><a href="https://almostover.ru/2016-01/hexo-theme-next-test/#Label-tag-test" target="_blank" rel="noopener">More info</a></p>
+<p><a href="https://almostover.ru/2016-01/hexo-theme-next-test/#Label-tag-test">More info</a></p>
 <h2 id="button-with-icon">Button with icon</h2>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Usage: &#123;% button &#x2F;path&#x2F;to&#x2F;url&#x2F;, text, icon [class], title %&#125;</span><br><span class="line">Alias: &#123;% btn &#x2F;path&#x2F;to&#x2F;url&#x2F;, text, icon [class], title %&#125;</span><br></pre></td></tr></table></figure>
 <p>
@@ -442,13 +436,13 @@ x &amp;= a +b+c+d\\
 <div class="text-center">
 <p><span><a class="btn" href="#"><i class="fa fa-header"></i></a><a class="btn" href="#"><i class="fa fa-edge"></i></a><a class="btn" href="#"><i class="fa fa-times"></i></a><a class="btn" href="#"><i class="fa fa-circle-o"></i></a></span> <span><a class="btn" href="#"><i class="fa fa-italic"></i></a><a class="btn" href="#"><i class="fa fa-scribd"></i></a></span> <span><a class="btn" href="#"><i class="fa fa-google"></i></a><a class="btn" href="#"><i class="fa fa-chrome"></i></a><a class="btn" href="#"><i class="fa fa-opera"></i></a><a class="btn" href="#"><i class="fa fa-diamond fa-rotate-270"></i></a></span></p>
 </div>
-<p><a href="https://almostover.ru/2016-01/hexo-theme-next-test/#Label-tag-test" target="_blank" rel="noopener">More info</a></p>
-<section class="footnotes">
+<p><a href="https://almostover.ru/2016-01/hexo-theme-next-test/#Label-tag-test">More info</a></p>
+<section class="footnotes" role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1"><p>basic footnote content<a href="#fnref1" class="footnote-back">↩</a></p></li>
-<li id="fn2"><p>paragraph footnote content<a href="#fnref2" class="footnote-back">↩</a></p></li>
-<li id="fn3">footnote content with some <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noopener">markdown</a> content
+<li id="fn1" role="doc-endnote"><p>basic footnote content<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2" role="doc-endnote"><p>paragraph footnote content<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3" role="doc-endnote">footnote content with some <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> content
 <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/flowchart/1.6.5/flowchart.min.js"></script>
 <textarea id="flowchart-0-code" style="display: none">st=>start: Start|past:>http://www.google.com[blank]
@@ -466,7 +460,7 @@ cond(yes, right)->c2
 cond(no)->sub1(left)->op1
 c2(yes)->io->e
 c2(no)->op2->e</textarea><textarea id="flowchart-0-options" style="display: none">{"scale":1,"line-width":2,"line-length":50,"text-margin":10,"font-size":12}</textarea><script>  var code = document.getElementById("flowchart-0-code").value;  var options = JSON.parse(decodeURIComponent(document.getElementById("flowchart-0-options").value));  var diagram = flowchart.parse(code);  diagram.drawSVG("flowchart-0", options);</script>
-<a href="#fnref3" class="footnote-back">↩</a></li>
+<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></li>
 </ol>
 </section>
 ]]></content>
