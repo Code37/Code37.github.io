@@ -47,29 +47,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Notes for CQF Problem Session - Part IV</title>
-    <url>/2017/12/06/CQFsp4/</url>
-    <content><![CDATA[<h1 id="notes-for-cqf-problem-session---part-iv">Notes for CQF Problem Session - Part IV</h1>
-<p>This page may help Quant seeker to review Math topics in quantitative finance, especially for CQF delegates. For the purpose of study, I compile these notes from the hand-write Support Session lectures of <a href="http://www.cqf.com/lecturers/profiles?page=2">Prof. Riaz Ahmad</a>.</p>
-<p><strong>Topic:</strong> <em>Transform Methods</em>, <em>Bond Pricing</em></p>
-<hr />
-<span id="more"></span>
-<h2 id="transform-methods-i">Transform Methods I</h2>
-<div class="pdfobject-container" data-target="https://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/CQF/ProbSeesion/Notes_for_problem_session_17.pdf" data-height="500px"></div>
-<h2 id="transform-methods-ii">Transform Methods II</h2>
-<div class="pdfobject-container" data-target="https://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/CQF/ProbSeesion/Notes_for_problem_session_18.pdf" data-height="500px"></div>
-<h2 id="bond-pricing">Bond Pricing</h2>
-<div class="pdfobject-container" data-target="https://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/CQF/ProbSeesion/Notes_for_Problem_Session_19.pdf" data-height="500px"></div>
-]]></content>
-      <categories>
-        <category>CQF Problem Session</category>
-      </categories>
-      <tags>
-        <tag>CQF</tag>
-        <tag>Quant</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Notes for CQF Problem Session - Part III</title>
     <url>/2017/12/06/CQFsp3/</url>
     <content><![CDATA[<h1 id="notes-for-cqf-problem-session---part-iii">Notes for CQF Problem Session - Part III</h1>
@@ -83,6 +60,29 @@
 <div class="pdfobject-container" data-target="https://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/CQF/ProbSeesion/Notes_for_problem_session_13.pdf" data-height="500px"></div>
 <h2 id="computational-finance">Computational Finance</h2>
 <div class="pdfobject-container" data-target="https://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/CQF/ProbSeesion/Notes_for_problem_session_15.pdf" data-height="500px"></div>
+]]></content>
+      <categories>
+        <category>CQF Problem Session</category>
+      </categories>
+      <tags>
+        <tag>CQF</tag>
+        <tag>Quant</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Notes for CQF Problem Session - Part IV</title>
+    <url>/2017/12/06/CQFsp4/</url>
+    <content><![CDATA[<h1 id="notes-for-cqf-problem-session---part-iv">Notes for CQF Problem Session - Part IV</h1>
+<p>This page may help Quant seeker to review Math topics in quantitative finance, especially for CQF delegates. For the purpose of study, I compile these notes from the hand-write Support Session lectures of <a href="http://www.cqf.com/lecturers/profiles?page=2">Prof. Riaz Ahmad</a>.</p>
+<p><strong>Topic:</strong> <em>Transform Methods</em>, <em>Bond Pricing</em></p>
+<hr />
+<span id="more"></span>
+<h2 id="transform-methods-i">Transform Methods I</h2>
+<div class="pdfobject-container" data-target="https://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/CQF/ProbSeesion/Notes_for_problem_session_17.pdf" data-height="500px"></div>
+<h2 id="transform-methods-ii">Transform Methods II</h2>
+<div class="pdfobject-container" data-target="https://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/CQF/ProbSeesion/Notes_for_problem_session_18.pdf" data-height="500px"></div>
+<h2 id="bond-pricing">Bond Pricing</h2>
+<div class="pdfobject-container" data-target="https://wenchao4quant.oss-ap-southeast-1.aliyuncs.com/CQF/ProbSeesion/Notes_for_Problem_Session_19.pdf" data-height="500px"></div>
 ]]></content>
       <categories>
         <category>CQF Problem Session</category>
@@ -403,32 +403,32 @@ x &amp;= a +b+c+d\\
 <h2 id="tab-tag">Tab tag</h2>
 <div class="tabs" id="选项卡"><ul class="nav-tabs"><li class="tab"><a href="#选项卡-1">选项卡 1</a></li><li class="tab active"><a href="#选项卡-2">选项卡 2</a></li><li class="tab"><a href="#选项卡-3">选项卡 3</a></li></ul><div class="tab-content"><div class="tab-pane" id="选项卡-1"><p><strong>Tab tag 1</strong> blablabla</p></div><div class="tab-pane active" id="选项卡-2"><p><strong>Tab tag 2</strong></p></div><div class="tab-pane" id="选项卡-3"><p><strong>Tab tag 3</strong> φ(≧ω≦*)♪～</p></div></div></div>
 <div class="tabs" id="sixth-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#sixth-unique-name-1"><i class="fa fa-text-width"></i>Solution 1</a></li><li class="tab"><a href="#sixth-unique-name-2"><i class="fa fa-amazon"></i>Solution 2</a></li><li class="tab"><a href="#sixth-unique-name-3"><i class="fa fa-bold"></i>Solution 3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="sixth-unique-name-1"><p><strong>This is Tab 1.</strong></p></div><div class="tab-pane" id="sixth-unique-name-2"><p><strong>This is Tab 2.</strong></p></div><div class="tab-pane" id="sixth-unique-name-3"><p><strong>This is Tab 3.</strong></p></div></div></div>
-<p><a href="https://almostover.ru/2016-01/hexo-theme-next-test/#Label-tag-test">More info</a></p>
 <h2 id="button-with-icon">Button with icon</h2>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Usage: &#123;% button /path/to/url/, text, icon [class], title %&#125;</span><br><span class="line">Alias: &#123;% btn /path/to/url/, text, icon [class], title %&#125;</span><br></pre></td></tr></table></figure>
+<p>Note: - <a href="https://github.com/theme-next/hexo-theme-next/pull/1438">Migrate to Font-Awesome 5 #1438</a> - <a href="https://fontawesome.com/v5.15/how-to-use/on-the-web/setup/upgrading-from-version-4">Upgrading from Version 4</a></p>
 <p>
 <a class="btn" href="#">
-            <i class="fa fa-home fa-3x"></i>
+            <i class="fas fa-home fa-3x"></i>
           </a>
 </p>
 <p>
 <a class="btn" href="#">
-            <i class="fa fa-home fa-fw fa-lg"></i>Text & Large Icon
+            <i class="fas fa-home fa-fw fa-lg"></i>Text & Large Icon
           </a>
 </p>
 <div class="text-center">
 <a class="btn" href="#">
-            <i class="fa fa-adn fa-fw fa-lg"></i>Almost
+            <i class="fab fa-adn fa-fw fa-lg"></i>Almost
           </a>
 <a class="btn" href="#">
-            <i class="fa fa-terminal fa-fw fa-lg"></i>Over
+            <i class="fas fa-terminal fa-fw fa-lg"></i>Over
           </a>
 </div>
 <div class="text-center">
 <p><span><a class="btn" href="#">
             <i class="fa fa-header"></i>
           </a><a class="btn" href="#">
-            <i class="fa fa-edge"></i>
+            <i class="fab fa-edge"></i>
           </a><a class="btn" href="#">
             <i class="fa fa-times"></i>
           </a><a class="btn" href="#">
@@ -436,13 +436,13 @@ x &amp;= a +b+c+d\\
           </a></span> <span><a class="btn" href="#">
             <i class="fa fa-italic"></i>
           </a><a class="btn" href="#">
-            <i class="fa fa-scribd"></i>
+            <i class="fab fa-scribd"></i>
           </a></span> <span><a class="btn" href="#">
-            <i class="fa fa-google"></i>
+            <i class="fab fa-google"></i>
           </a><a class="btn" href="#">
-            <i class="fa fa-chrome"></i>
+            <i class="fab fa-chrome"></i>
           </a><a class="btn" href="#">
-            <i class="fa fa-opera"></i>
+            <i class="fab fa-opera"></i>
           </a><a class="btn" href="#">
             <i class="fa fa-diamond fa-rotate-270"></i>
           </a></span></p>
